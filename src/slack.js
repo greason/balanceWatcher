@@ -31,5 +31,5 @@ class Slack {
 }
 
 module.exports = new Slack(
-    "https://hooks.slack.com/services/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"
+    "https://hooks.slack.com/services/??"
 );
